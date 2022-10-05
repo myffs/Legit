@@ -1,2 +1,4 @@
-# Legit
-a thing
+## ABOUT
+
+* Simple/weird game created by myfnf
+* lil quick game
